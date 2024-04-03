@@ -1,0 +1,437 @@
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Bold.eot');
+    src: local('Greycliff CF Bold'), local('GreycliffCF-Bold'),
+    url('GreycliffCF-Bold.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-Bold.woff2') format('woff2'),
+    url('GreycliffCF-Bold.woff') format('woff'),
+    url('GreycliffCF-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url('VelaSans-Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Greycliff CF Medium Oblique';
+    src: url('GreycliffCF-MediumOblique.eot');
+    src: local('Greycliff CF Medium Oblique'), local('GreycliffCF-MediumOblique'),
+    url('GreycliffCF-MediumOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-MediumOblique.woff2') format('woff2'),
+    url('GreycliffCF-MediumOblique.woff') format('woff'),
+    url('GreycliffCF-MediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Light.eot');
+    src: local('Greycliff CF Light'), local('GreycliffCF-Light'),
+    url('GreycliffCF-Light.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-Light.woff2') format('woff2'),
+    url('GreycliffCF-Light.woff') format('woff'),
+    url('GreycliffCF-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Heavy.eot');
+    src: local('Greycliff CF Heavy'), local('GreycliffCF-Heavy'),
+    url('GreycliffCF-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-Heavy.woff2') format('woff2'),
+    url('GreycliffCF-Heavy.woff') format('woff'),
+    url('GreycliffCF-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra Light Oblique';
+    src: url('GreycliffCF-ExtraLightOblique.eot');
+    src: local('Greycliff CF Extra Light Oblique'), local('GreycliffCF-ExtraLightOblique'),
+    url('GreycliffCF-ExtraLightOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-ExtraLightOblique.woff2') format('woff2'),
+    url('GreycliffCF-ExtraLightOblique.woff') format('woff'),
+    url('GreycliffCF-ExtraLightOblique.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra Bold Oblique';
+    src: url('GreycliffCF-ExtraBoldOblique.eot');
+    src: local('Greycliff CF Extra Bold Oblique'), local('GreycliffCF-ExtraBoldOblique'),
+    url('GreycliffCF-ExtraBoldOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-ExtraBoldOblique.woff2') format('woff2'),
+    url('GreycliffCF-ExtraBoldOblique.woff') format('woff'),
+    url('GreycliffCF-ExtraBoldOblique.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra';
+    src: url('GreycliffCF-ExtraLight.eot');
+    src: local('Greycliff CF Extra Light'), local('GreycliffCF-ExtraLight'),
+    url('GreycliffCF-ExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-ExtraLight.woff2') format('woff2'),
+    url('GreycliffCF-ExtraLight.woff') format('woff'),
+    url('GreycliffCF-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra';
+    src: url('GreycliffCF-ExtraBold.eot');
+    src: local('Greycliff CF Extra Bold'), local('GreycliffCF-ExtraBold'),
+    url('GreycliffCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-ExtraBold.woff2') format('woff2'),
+    url('GreycliffCF-ExtraBold.woff') format('woff'),
+    url('GreycliffCF-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Bold Oblique';
+    src: url('GreycliffCF-BoldOblique.eot');
+    src: local('Greycliff CF Bold Oblique'), local('GreycliffCF-BoldOblique'),
+    url('GreycliffCF-BoldOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-BoldOblique.woff2') format('woff2'),
+    url('GreycliffCF-BoldOblique.woff') format('woff'),
+    url('GreycliffCF-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Light Oblique';
+    src: url('GreycliffCF-LightOblique.eot');
+    src: local('Greycliff CF Light Oblique'), local('GreycliffCF-LightOblique'),
+    url('GreycliffCF-LightOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-LightOblique.woff2') format('woff2'),
+    url('GreycliffCF-LightOblique.woff') format('woff'),
+    url('GreycliffCF-LightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Heavy Oblique';
+    src: url('GreycliffCF-HeavyOblique.eot');
+    src: local('Greycliff CF Heavy Oblique'), local('GreycliffCF-HeavyOblique'),
+    url('GreycliffCF-HeavyOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-HeavyOblique.woff2') format('woff2'),
+    url('GreycliffCF-HeavyOblique.woff') format('woff'),
+    url('GreycliffCF-HeavyOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Demi Bold Oblique';
+    src: url('GreycliffCF-DemiBoldOblique.eot');
+    src: local('Greycliff CF Demi Bold Oblique'), local('GreycliffCF-DemiBoldOblique'),
+    url('GreycliffCF-DemiBoldOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-DemiBoldOblique.woff2') format('woff2'),
+    url('GreycliffCF-DemiBoldOblique.woff') format('woff'),
+    url('GreycliffCF-DemiBoldOblique.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Demi';
+    src: url('GreycliffCF-DemiBold.eot');
+    src: local('Greycliff CF Demi Bold'), local('GreycliffCF-DemiBold'),
+    url('GreycliffCF-DemiBold.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-DemiBold.woff2') format('woff2'),
+    url('GreycliffCF-DemiBold.woff') format('woff'),
+    url('GreycliffCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Thin.eot');
+    src: local('Greycliff CF Thin'), local('GreycliffCF-Thin'),
+    url('GreycliffCF-Thin.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-Thin.woff2') format('woff2'),
+    url('GreycliffCF-Thin.woff') format('woff'),
+    url('GreycliffCF-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Medium.eot');
+    src: local('Greycliff CF Medium'), local('GreycliffCF-Medium'),
+    url('GreycliffCF-Medium.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-Medium.woff2') format('woff2'),
+    url('GreycliffCF-Medium.woff') format('woff'),
+    url('GreycliffCF-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Thin Oblique';
+    src: url('GreycliffCF-ThinOblique.eot');
+    src: local('Greycliff CF Thin Oblique'), local('GreycliffCF-ThinOblique'),
+    url('GreycliffCF-ThinOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-ThinOblique.woff2') format('woff2'),
+    url('GreycliffCF-ThinOblique.woff') format('woff'),
+    url('GreycliffCF-ThinOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Regular.eot');
+    src: local('Greycliff CF'), local('GreycliffCF-Regular'),
+    url('GreycliffCF-Regular.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-Regular.woff2') format('woff2'),
+    url('GreycliffCF-Regular.woff') format('woff'),
+    url('GreycliffCF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Oblique';
+    src: url('GreycliffCF-RegularOblique.eot');
+    src: local('Greycliff CF Oblique'), local('GreycliffCF-RegularOblique'),
+    url('GreycliffCF-RegularOblique.eot?#iefix') format('embedded-opentype'),
+    url('GreycliffCF-RegularOblique.woff2') format('woff2'),
+    url('GreycliffCF-RegularOblique.woff') format('woff'),
+    url('GreycliffCF-RegularOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+*,*:before,*:after{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color:rgba(3,8,15,255);
+    line-height: 1;
+    font-size: 14px;
+    color: #252B42;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+._container{
+    max-width: 1920px;
+    margin: 0px auto;
+    padding: 0px 15px;
+    box-sizing: content-box;
+}
+
+/* HEADER ------------------------------------------ */
+.header {
+}
+.header__container {
+    display: flex;
+    min-height: 141px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logo {
+    font-size: 24px;
+    font-weight: 700;
+    color: inherit;
+    display: flex;
+    align-items: center;
+}
+.header__logo-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.smoke1{
+    position: absolute;
+    width: 100%;
+}
+
+.header__menu {
+}
+
+.menu {
+    padding: 5px 0px;
+}
+.menu_list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.menu_item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    list-style: none; /* Убираем маркеры списка */
+    margin-left: 20px;
+    padding-left: 20px; /* Добавляем отступ слева для размещения иконки */
+}
+.menu_item:not(:last-child) {
+    margin-right: 21px;
+}
+.menu_link-line {
+    position: relative;
+    list-style: none; /* Убираем маркеры списка */
+
+}
+
+.menu_link-line::after {
+    content: url('./img/header/arrow.svg'); /* Путь к изображению иконки */
+    margin-left: 10px; /* Отступ между текстом и иконкой */
+    position: absolute;
+
+bottom: 2px}
+
+.menu_link {
+    color: #FFF;
+    font-family: 'Geologica';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 34px; /* 141.667% */
+}
+.header__contacts{
+    display: flex;
+    align-items: center;
+    color: #FFF;
+    font-family: 'Geologica';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 34px; /* 141.667% */
+}
+.header__contacts-logo{
+    margin-right: 11px;
+}
+/*MAIN*/
+
+.main{
+
+}
+.main__container{
+}
+.salam{
+    width: 100%;
+}
+.dzhiga{
+    position: relative;
+    bottom: 60px;
+}
+.main__body{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+}
+.main__content{
+    position: relative;
+   top: 176px;
+}
+.main__title{
+    font-size: 84px;
+    font-family: "Greycliff CF";
+    font-style: normal;
+    font-weight: 600;
+    color: white;
+    line-height: normal;
+}
+.vector1{
+}
+.main__text{
+    margin-top: 26px;
+    color: #CDD3DA;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px; /* 175% */
+    margin-bottom: 69px;
+
+}
+.main__button{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 95px;
+    text-decoration: none;
+    min-height: 48px;
+    text-align: center;
+    margin: 10px 0px;
+
+    color: #FFF;
+    font-family: "CustomFont";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px; /* 141.667% */
+
+    border-radius: 6px;
+    background: linear-gradient(257deg, #FD8806 25.37%, #DB3F2C 125.31%);
+    box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.13) inset, 0px 0px 16.1px 0px rgba(253, 136, 6, 0.51);
+}
+.main__buttons{
+    margin-top: 83px;
+}
+.home__button{
+    padding: 10px 25px;
+
+    color: #FFF;
+    font-family: "Greycliff CF";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 141.667% */
+
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.04);
+    box-shadow: 0px 0px 21.5px 0px rgba(0, 0, 0, 0.25);
+}
+.main__man img{
+    height: 100%;
+}
