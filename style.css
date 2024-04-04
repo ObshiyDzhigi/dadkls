@@ -17,185 +17,6 @@ img {
     font-family: 'CustomFont';
     src: url('VelaSans-Regular.otf') format('opentype');
 }
-@font-face {
-    font-family: 'Greycliff CF Medium Oblique';
-    src: url('GreycliffCF-MediumOblique.eot');
-    src: local('Greycliff CF Medium Oblique'), local('GreycliffCF-MediumOblique'),
-    url('GreycliffCF-MediumOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-MediumOblique.woff2') format('woff2'),
-    url('GreycliffCF-MediumOblique.woff') format('woff'),
-    url('GreycliffCF-MediumOblique.ttf') format('truetype');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF';
-    src: url('GreycliffCF-Light.eot');
-    src: local('Greycliff CF Light'), local('GreycliffCF-Light'),
-    url('GreycliffCF-Light.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-Light.woff2') format('woff2'),
-    url('GreycliffCF-Light.woff') format('woff'),
-    url('GreycliffCF-Light.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF';
-    src: url('GreycliffCF-Heavy.eot');
-    src: local('Greycliff CF Heavy'), local('GreycliffCF-Heavy'),
-    url('GreycliffCF-Heavy.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-Heavy.woff2') format('woff2'),
-    url('GreycliffCF-Heavy.woff') format('woff'),
-    url('GreycliffCF-Heavy.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Extra Light Oblique';
-    src: url('GreycliffCF-ExtraLightOblique.eot');
-    src: local('Greycliff CF Extra Light Oblique'), local('GreycliffCF-ExtraLightOblique'),
-    url('GreycliffCF-ExtraLightOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-ExtraLightOblique.woff2') format('woff2'),
-    url('GreycliffCF-ExtraLightOblique.woff') format('woff'),
-    url('GreycliffCF-ExtraLightOblique.ttf') format('truetype');
-    font-weight: 200;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Extra Bold Oblique';
-    src: url('GreycliffCF-ExtraBoldOblique.eot');
-    src: local('Greycliff CF Extra Bold Oblique'), local('GreycliffCF-ExtraBoldOblique'),
-    url('GreycliffCF-ExtraBoldOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-ExtraBoldOblique.woff2') format('woff2'),
-    url('GreycliffCF-ExtraBoldOblique.woff') format('woff'),
-    url('GreycliffCF-ExtraBoldOblique.ttf') format('truetype');
-    font-weight: 800;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Extra';
-    src: url('GreycliffCF-ExtraLight.eot');
-    src: local('Greycliff CF Extra Light'), local('GreycliffCF-ExtraLight'),
-    url('GreycliffCF-ExtraLight.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-ExtraLight.woff2') format('woff2'),
-    url('GreycliffCF-ExtraLight.woff') format('woff'),
-    url('GreycliffCF-ExtraLight.ttf') format('truetype');
-    font-weight: 200;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Extra';
-    src: url('GreycliffCF-ExtraBold.eot');
-    src: local('Greycliff CF Extra Bold'), local('GreycliffCF-ExtraBold'),
-    url('GreycliffCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-ExtraBold.woff2') format('woff2'),
-    url('GreycliffCF-ExtraBold.woff') format('woff'),
-    url('GreycliffCF-ExtraBold.ttf') format('truetype');
-    font-weight: 800;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Bold Oblique';
-    src: url('GreycliffCF-BoldOblique.eot');
-    src: local('Greycliff CF Bold Oblique'), local('GreycliffCF-BoldOblique'),
-    url('GreycliffCF-BoldOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-BoldOblique.woff2') format('woff2'),
-    url('GreycliffCF-BoldOblique.woff') format('woff'),
-    url('GreycliffCF-BoldOblique.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Light Oblique';
-    src: url('GreycliffCF-LightOblique.eot');
-    src: local('Greycliff CF Light Oblique'), local('GreycliffCF-LightOblique'),
-    url('GreycliffCF-LightOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-LightOblique.woff2') format('woff2'),
-    url('GreycliffCF-LightOblique.woff') format('woff'),
-    url('GreycliffCF-LightOblique.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Heavy Oblique';
-    src: url('GreycliffCF-HeavyOblique.eot');
-    src: local('Greycliff CF Heavy Oblique'), local('GreycliffCF-HeavyOblique'),
-    url('GreycliffCF-HeavyOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-HeavyOblique.woff2') format('woff2'),
-    url('GreycliffCF-HeavyOblique.woff') format('woff'),
-    url('GreycliffCF-HeavyOblique.ttf') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Demi Bold Oblique';
-    src: url('GreycliffCF-DemiBoldOblique.eot');
-    src: local('Greycliff CF Demi Bold Oblique'), local('GreycliffCF-DemiBoldOblique'),
-    url('GreycliffCF-DemiBoldOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-DemiBoldOblique.woff2') format('woff2'),
-    url('GreycliffCF-DemiBoldOblique.woff') format('woff'),
-    url('GreycliffCF-DemiBoldOblique.ttf') format('truetype');
-    font-weight: 600;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Demi';
-    src: url('GreycliffCF-DemiBold.eot');
-    src: local('Greycliff CF Demi Bold'), local('GreycliffCF-DemiBold'),
-    url('GreycliffCF-DemiBold.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-DemiBold.woff2') format('woff2'),
-    url('GreycliffCF-DemiBold.woff') format('woff'),
-    url('GreycliffCF-DemiBold.ttf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF';
-    src: url('GreycliffCF-Thin.eot');
-    src: local('Greycliff CF Thin'), local('GreycliffCF-Thin'),
-    url('GreycliffCF-Thin.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-Thin.woff2') format('woff2'),
-    url('GreycliffCF-Thin.woff') format('woff'),
-    url('GreycliffCF-Thin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF';
-    src: url('GreycliffCF-Medium.eot');
-    src: local('Greycliff CF Medium'), local('GreycliffCF-Medium'),
-    url('GreycliffCF-Medium.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-Medium.woff2') format('woff2'),
-    url('GreycliffCF-Medium.woff') format('woff'),
-    url('GreycliffCF-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Thin Oblique';
-    src: url('GreycliffCF-ThinOblique.eot');
-    src: local('Greycliff CF Thin Oblique'), local('GreycliffCF-ThinOblique'),
-    url('GreycliffCF-ThinOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-ThinOblique.woff2') format('woff2'),
-    url('GreycliffCF-ThinOblique.woff') format('woff'),
-    url('GreycliffCF-ThinOblique.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
-}
 
 @font-face {
     font-family: 'Greycliff CF';
@@ -207,18 +28,6 @@ img {
     url('GreycliffCF-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'Greycliff CF Oblique';
-    src: url('GreycliffCF-RegularOblique.eot');
-    src: local('Greycliff CF Oblique'), local('GreycliffCF-RegularOblique'),
-    url('GreycliffCF-RegularOblique.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-RegularOblique.woff2') format('woff2'),
-    url('GreycliffCF-RegularOblique.woff') format('woff'),
-    url('GreycliffCF-RegularOblique.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
 }
 
 
@@ -240,7 +49,7 @@ nav,footer,header,aside{display: block;}
 html,body{
     height: 100%;
     width: 100%;
-    background-color:#1A1827;
+    background-color:#171524;
     line-height: 1;
     font-size: 14px;
     color: #252B42;
@@ -273,173 +82,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
     box-sizing: content-box;
 }
 
-/* HEADER ------------------------------------------ */
-.header {
-}
-.header__container {
-    display: flex;
-    min-height: 141px;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.header__logo {
-    font-size: 24px;
-    font-weight: 700;
-    color: inherit;
-    display: flex;
-    align-items: center;
-}
-.header__logo-text {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.smoke1{
-    position: absolute;
-    width: 100%;
-}
-
-.header__menu {
-}
-
-.menu {
-    padding: 5px 0px;
-}
-.menu_list {
-    display: flex;
-    flex-wrap: wrap;
-}
-.menu_item {
-    position: relative;
-    display: flex;
-    align-items: center;
-    list-style: none; /* Убираем маркеры списка */
-    margin-left: 20px;
-    padding-left: 20px; /* Добавляем отступ слева для размещения иконки */
-}
-.menu_item:not(:last-child) {
-    margin-right: 21px;
-}
-.menu_link-line {
-    position: relative;
-    list-style: none; /* Убираем маркеры списка */
-
-}
-
-.menu_link-line::after {
-    content: url('./img/header/arrow.svg'); /* Путь к изображению иконки */
-    margin-left: 10px; /* Отступ между текстом и иконкой */
-    position: absolute;
-
-bottom: 2px}
-
-.menu_link {
-    color: #FFF;
-    font-family: 'Geologica';
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 34px; /* 141.667% */
-}
-.header__contacts{
-    display: flex;
-    align-items: center;
-    color: #FFF;
-    font-family: 'Geologica';
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 34px; /* 141.667% */
-}
-.header__contacts-logo{
-    margin-right: 11px;
-}
-/*MAIN*/
-
-.main{
-
-}
-.main__container{
-}
-.salam{
-    width: 100%;
-}
-.dzhiga{
-    position: relative;
-    bottom: 60px;
-}
-.main__body{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-
-}
-.main__content{
-    position: relative;
-   top: 176px;
-}
-.main__title{
-    font-size: 84px;
-    font-family: "Greycliff CF";
-    font-style: normal;
-    font-weight: 600;
-    color: white;
-    line-height: normal;
-}
-.vector1{
-}
-.main__text{
-    margin-top: 26px;
-    color: #CDD3DA;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 42px; /* 175% */
-    margin-bottom: 69px;
-
-}
-.main__button{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    padding: 25px 95px;
-    text-decoration: none;
-    min-height: 48px;
-    text-align: center;
-    margin: 10px 0px;
-
-    color: #FFF;
-    font-family: "CustomFont";
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 34px; /* 141.667% */
-
-    border-radius: 6px;
-    background: linear-gradient(257deg, #FD8806 25.37%, #DB3F2C 125.31%);
-    box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.13) inset, 0px 0px 16.1px 0px rgba(253, 136, 6, 0.51);
-}
-.main__buttons{
-    margin-top: 83px;
-}
-.home__button{
-    padding: 10px 25px;
-
-    color: #FFF;
-    font-family: "Greycliff CF";
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 34px; /* 141.667% */
-
-    border-radius: 6px;
-    background: rgba(255, 255, 255, 0.04);
-    box-shadow: 0px 0px 21.5px 0px rgba(0, 0, 0, 0.25);
-}
-.main__man img{
-    opacity: 0.5;
-    filter: blur(0.5px);
-}
 /* header-block */
 .header-block {
     text-align: center;
@@ -461,39 +103,74 @@ bottom: 2px}
     line-height: 58px; /* 111.538% */
  
 }
-/* SERVICES */
-.services {
+@media (max-width:1046px){
+    .header-block__text {
+        color: #FFF;
+        font-family: "CustomFont";
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 58px; /* 111.538% */
+     
+    }
 }
-.services__container {
- 
+@media (max-width:905px){
+    .header-block__text {
+        font-size: 40px;
+     
+    }
+    .product__header {
+        margin-bottom: 80px;
+    }
 }
-._container {
+@media (max-width:806px){
+    .header-block__text {
+        font-size: 30px;
+     
+    }
+    .product__header {
+        margin-bottom: 70px;
+    }
 }
-.services__header {
-    max-width: 572px;
-    margin: 0 auto;
-}
-
-.services__row {
-    margin-top: 125px;
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-}
-
-.services__column {
-    border-radius: 8px;
-    padding-left: 34px;
-    padding-right: 38px;
-
-    margin-right: 38px;
-    border: 1px solid #43424C;
-    background: rgba(255, 255, 255, 0.05);
-    box-shadow: 0px 0px 7.3px 0px rgba(255, 255, 255, 0.10) inset;
+@media (max-width:569px){
+    .header-block__text {
+        font-size: 25px;
+     
+    }
+    .product__header {
+        margin-bottom: 60px;
+    }
 }
 .item-service__circle {
-
+    margin-top: -150px;
+    margin-left: -60px;
 }
+@media (max-width:1820px){
+    .cir1 {
+        margin-left: -350px;
+        margin-top: -100px;
 
+        
+    }
+    .cir3 {
+        margin-left: -350px;
+        margin-top: -100px;
+
+    }
+}
+@media (max-width:970px){
+    .cir1 {
+        margin-left: -50px;
+        margin-top: -100px;
+
+        
+    }
+    .cir3 {
+        margin-left: -50px;
+        margin-top: -150px;
+
+    }
+}
 .item-service__button {
     display: block;
     padding: 15px 44px;
@@ -502,7 +179,7 @@ bottom: 2px}
 
     border-radius: 6px;
     background: #FFF;
-
+    position: relative;
     width: fit-content;
     color: #161423;
     font-family: "CustomFont";
@@ -511,9 +188,12 @@ bottom: 2px}
     font-weight: 500;
     line-height: 30px; /* 150% */
 }
-
-
-
+.item-service__button::after {
+    content: url('./img/services/arrowserv.svg'); /* Путь к изображению иконки */
+    margin-left: 10px; /* Отступ между текстом и иконкой */
+    position: absolute;
+    top: 13px;
+}
 
 
 
@@ -535,28 +215,40 @@ bottom: 2px}
 .product__container {
 }
 .product__header {
-    margin-bottom: 45px;
+    margin-bottom: 126px;
+}
+@media (max-width:1046px){
+    .product__header {
+        margin-bottom: 90px;
+    }
 }
 
 .product__body {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
     margin: 0px -20px -30px;
 }
+@media (max-width:1819px){
+    .product__body {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+
+/* @media (max-width:970px){
+    .product__body {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}  */
 .product__column {
-    min-width: 416px;
     border-radius: 8px;
     padding: 0px 20px;
     flex: 0 1 20%;
     margin-bottom:30px;
 }
-@media (max-width:1040px){
-    .product__column {
-        flex: 0 1 45%;
-    }
-}  
-@media (max-width:800px){
+@media (max-width:970px){
     .product__column {
         flex: 0 1 100%;
     }
@@ -567,14 +259,50 @@ bottom: 2px}
 .item-product {
     display: flex;
     flex-direction: column;
+    height: 100%;
 }
+
 .item-product__content {
+    position: relative;
+    margin-top: auto;
     background: rgba(255, 255, 255, 0.05);
-    border-radius: 15px 15px 0px 0px;
+    border-radius: 15px;
     padding: 30px;
     border: 1px solid #43424C;
     box-shadow: 0px 0px 7.3px 0px rgba(255, 255, 255, 0.10) inset;
     flex: 1;
+    transition: 0.3s;
+
+}
+.item-product__content:hover{
+    transform: scale(1.1);
+    background: rgba(59, 53, 100, 0.76);
+    transition: 0.3s;
+
+}
+@media (min-width:1820px){
+    .item-product__content {
+        max-width: 416px;
+    }
+}
+@media (max-width:1820px){
+
+}
+@media (max-width:970px){
+    .item-product__content {
+        width: 375px;
+        margin: 0 auto;
+
+    }
+}
+@media (max-width:823px){
+    .item-product__content {
+        width: 330px;
+    }
+    .item-service__circle {
+        margin-bottom: -100px;
+        margin-left: -100px;
+    }
 }
 .product__broshki{
     margin-top: -150px;
@@ -586,7 +314,18 @@ bottom: 2px}
 }
 .product__dzhigi{
     margin-top: -120px;
+    
+}
+.salamshi{
+    position: absolute;
+    bottom: 30px;
+}
 
+@media (max-width:1820px){
+    .chetam{
+        position: absolute;
+        bottom: 30px;
+    }
 }
 .urushan{
     margin-bottom: -30px;
@@ -619,4 +358,542 @@ bottom: 2px}
     display: block;
     padding: 0px 0px 85% 0px;
     object-fit: cover;
+}
+
+@media (max-width:737px){
+
+    .item-service__circle {
+        margin-bottom: -100px;
+        margin-left: -100px;
+    }
+    .item-product__content {
+        width: 300px;
+    }
+    .item-product__title {
+        color: #FFF;
+        margin-bottom: -50px;
+        font-family: "CustomFont";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 34px; /* 121.429% */
+    }
+    .item-product__text {
+        color: #FFF;
+        font-family: "CustomFont";
+        font-size: 20px;
+        font-style: normal;
+        margin-bottom: 29px;
+        font-weight: 400;
+        line-height: 30px; /* 150% */
+    }
+}
+@media (max-width:679px){
+    .item-service__circle {
+        margin-bottom: -130px;
+        margin-left: -100px;
+    }
+    .item-product__content {
+        width: 250px;
+        margin: 0 auto;
+
+    }
+    .item-product__title {
+        color: #FFF;
+        margin-bottom: -50px;
+        font-family: "CustomFont";
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 34px; /* 121.429% */
+    }
+    .item-product__text {
+        color: #FFF;
+        font-family: "CustomFont";
+        font-size: 15px;
+        font-style: normal;
+        margin-bottom: 29px;
+        font-weight: 400;
+        line-height: 30px; /* 150% */
+    }
+    .item-service__button {
+        display: block;
+        padding: 15px 44px;
+        justify-content: center;
+        align-items: center;
+    
+        border-radius: 6px;
+        background: #FFF;
+    
+        width: fit-content;
+        color: #161423;
+        font-family: "CustomFont";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 30px; /* 150% */
+    }
+    
+}
+@media (max-width:576px){
+    .item-product__content {
+        width: 100%;
+    }
+    .product__body {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media (max-width:436px){
+    .item-product__content {
+        padding-right: 0;
+        margin: 0 auto;
+
+        width: 330px;
+    }
+    .product__body {
+        display: grid;
+        grid-template-columns:1fr;
+        margin: 0px -20px -30px;
+    }
+    .chetam2{
+        position: absolute;
+        bottom: 30px;
+    }
+    .chetam3{
+        position: absolute;
+        bottom: 30px;
+    }
+
+}
+
+
+/* benefits */
+.benefits {
+    background-color:#1C1A2E;
+    padding-top: 152px;
+    padding-bottom: 122px;
+    opacity: 0.9;
+    background: url('./img/benefits//manbro.png') no-repeat;
+    background-position: 60% 20%;
+}
+@media (max-width:992px){
+    .benefits {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+}
+@media (max-width:471px){
+    .benefits {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+.benefits__container {
+    padding-left: 0px;
+}
+@media (max-width:1048px){
+    .benefits__container {
+        margin: 0 auto;
+    }
+
+}
+
+.benefits__header {
+    position: relative;
+    color: #FFF;
+    margin: 0 auto;
+    max-width: 700px;
+    text-align: center;
+    font-family: "CustomFont";
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 58px; /* 111.538% */
+}
+@media (max-width:706px){
+    .benefits__header {
+        font-size: 45px;
+        max-width: 500px;
+
+    }
+    .benefits__circled_word::before{
+        content: url('./img/benefits//word-circle.svg'); /* Путь к изображению иконки */
+        position: absolute;
+        left: 70px;
+    top: 70px;
+    
+    }
+}
+@media (max-width:575px){
+    .benefits__header {
+        margin-bottom: 60px;
+    }
+}
+@media (max-width:415px){
+    .benefits__circled_word::before{
+        content: url('./img/benefits/word-circle.svg'); /* Путь к изображению иконки */
+        position: absolute;
+    }
+   
+}
+@media (max-width:365px){
+    .benefits__circled_word::before{
+        content: url('./img/benefits/word-circle.svg'); /* Путь к изображению иконки */
+        position: absolute;
+        left: 40px;
+        top: 70px;
+    }
+}
+@media (max-width:992px){
+    .benefits__header {
+        font-size: 35px;
+    }
+}
+@media (max-width:988px){
+    .benefits__circled_word::before{
+        content: url('./img/benefits/word-circle.svg'); /* Путь к изображению иконки */
+        position: absolute;
+       right: 250px;
+        top: 70px;
+    }
+}
+@media (max-width:460px){
+    .benefits__circled_word::before{
+        content: url('./img/benefits/word-circle.svg'); /* Путь к изображению иконки */
+        position: absolute;
+       right: 250px;
+        top: 110px;
+    }
+}
+@media (max-width:387px){
+    .benefits__circled_word::before{
+        display: none;
+    }
+}
+.benefits__header::before{
+    content: url('./img/benefits//lefticon.svg'); /* Путь к изображению иконки */
+}
+.benefits__header::after{
+    content: url('./img/benefits/righticon.png'); /* Путь к изображению иконки */
+}
+.benefits__circled_word::before{
+    content: url('./img/benefits//word-circle.svg'); /* Путь к изображению иконки */
+    position: absolute;
+}
+.benefits__firstcol {
+    display:flex;
+    justify-content: space-between;
+
+    margin-top: 104px;
+}
+@media (min-width:1048px){
+    .benefits__firstcol {
+        margin-left: 102px;
+        margin-right: 102px;    
+}
+}
+@media (max-width:992px){
+    .benefits__firstcol {
+        display:flex;
+        justify-content: space-between;
+    
+        margin-top: 80px;
+    }
+}
+.benefits__item1 {
+    padding: 50px 23px;
+    position: relative;
+    margin-left: 20px;
+
+    max-width: 416px;
+    border-radius: 8px;
+    border: 1px solid #3C3A50;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0px 0px 7.3px 0px rgba(255, 255, 255, 0.10) inset;
+}
+.benefits__secondcol {
+    display:flex;
+    /* margin-left: 282px;
+
+    margin-right: 175px; */
+    margin-top: 104px;
+    justify-content: space-between;
+
+}
+@media (max-width:400px){
+    .benefits__firstcol {
+        display:flex;
+        justify-content: space-between;
+    
+        margin-top: 20px;
+    }
+}
+@media (min-width:1298px){
+    .benefits__secondcol {
+        padding: 0 200px;
+    }
+}
+@media (max-width:386px){
+    .benefits__header {
+
+        font-size: 25px;
+    }
+
+}
+@media (max-width:728px){
+    .benefits__secondcol {
+
+    }
+    .benefits__firstcol {
+        display:flex;
+        justify-content: space-between;
+    
+        margin-top: 60px;
+    }
+}
+@media (max-width:575px){
+    .benefits__secondcol {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .benefits__firstcol {
+        display:flex;
+        justify-content: space-between;
+    
+    }
+}
+@media (max-width:1340px){
+    .benefits__item1 {
+        max-width: 395px;
+    }
+    .benefits__item2 {
+        max-width: 395px;
+    }
+}
+
+.benefits__item2 {
+    padding: 50px 23px;
+    margin-left: 20px;
+    position: relative;
+    max-width: 416px;
+    border-radius: 8px;
+    border: 1px solid #3C3A50;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0px 0px 7.3px 0px rgba(255, 255, 255, 0.10) inset;
+}
+.benefits__item1::before{
+    content: url('./img/benefits/yellowsmoke.svg'); /* Путь к изображению иконки */
+    position: absolute;
+    top: -45px;
+    left: 0;
+    right: 0;
+}
+.benefits__item2::before{
+    content: url('./img/benefits/yellowsmoke.svg'); /* Путь к изображению иконки */
+    position: absolute;
+    top: -45px;
+    left: 0;
+    right: 0;
+}
+.item-benefits__icon {
+    margin-bottom: 13px;
+}
+.item-benefits__title {
+    margin-bottom: 34px;
+    color: #FFF;
+    font-family: "CustomFont";
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px; /* 130.769% */
+}
+.item-benefits__text {
+    color: #FFF;
+    font-family: "CustomFont";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+}
+.benefits__secondcol {
+}
+
+@media (max-width:890px){
+    .benefits__item1 {
+        max-width: 330px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .benefits__item2 {
+        max-width: 330px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+}
+@media (max-width:721px){
+    .item-benefits__icon {
+        margin-bottom: 8px;
+    }
+    .benefits__item1 {
+        max-width: 295px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .benefits__item2 {
+        max-width: 295px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .item-benefits__title {
+        margin-bottom: 15px;
+        color: #FFF;
+        font-family: "CustomFont";
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 34px; /* 130.769% */
+    }
+    .item-benefits__text {
+        color: #FFF;
+        font-family: "CustomFont";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px; /* 150% */
+    }
+}
+@media (max-width:661px){
+    .item-benefits__icon {
+        margin-bottom: 6px;
+    }
+    .benefits__item1 {
+        max-width: 250px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .benefits__secondcol {
+        margin-top: 30px;
+
+    }
+    .item-benefits__title {
+        margin-bottom: 8px;
+        color: #FFF;
+        font-family: "CustomFont";
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 34px; /* 130.769% */
+    }
+    .benefits__item2 {
+        max-width: 250px;
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+}
+@media (max-width:575px){
+    .benefits__firstcol {
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    .benefits__secondcol {
+      
+        margin-top: 0px;
+    }
+    .benefits__item1 {
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+    .benefits__item2 {
+        max-width: 100%;
+        margin-bottom: 10px;
+
+    }
+    .benefits__item1::after{
+        content: url('./img/benefits/yellowsmoke.svg'); /* Путь к изображению иконки */
+        position: absolute;
+        top: -75px;
+        right:  0;
+    }
+    .benefits__item2::after{
+        content: url('./img/benefits/yellowsmoke.svg'); /* Путь к изображению иконки */
+        position: absolute;
+        top: -95px;
+        right: 0;
+    }
+
+   
+}
+@media (max-width:430px){
+    .benefits__header {
+    }
+    .benefits {
+        background-color:#1C1A2E;
+        padding-top: 20px;
+        opacity: 0.9;
+        background: url('./img/benefits/manbro.png') no-repeat;
+        background-position:center 280vw;
+        background-size: 700px;
+    }
+    .benefits__container {
+        min-height: 1720px;
+    } 
+}
+@media (max-width:393px){
+    .benefits__container {
+        min-height: 1520px;
+    } 
+}
+.benbuttons{
+    margin-top: 123px;
+    text-align: center;
+}
+@media (max-width:580px){
+    .benbuttons{
+        display: none;
+    }
+}
+@media (max-width:720px){
+    .benefits__btn {
+    padding: 25px 40px;
+    }
+    .benefits__btn2 {
+        padding: 25px 40px;
+        margin-right: 0px;
+    }
+}
+.benefits__btn {
+    border-radius: 6px;
+background: linear-gradient(257deg, #FD8806 25.37%, #DB3F2C 125.31%);
+box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.13) inset, 0px 0px 16.1px 0px rgba(253, 136, 6, 0.51);
+margin-right: 44px;
+color: #FFF;
+font-family: "CustomFont";
+font-size: 24px;
+padding: 25px 95px;
+
+font-style: normal;
+font-weight: 600;
+line-height: 34px; /* 141.667% */
+margin-bottom: 15px;
+}
+.benefits__btn2 {
+    padding: 25px 95px;
+    border-radius: 6px;
+border: 2px solid #FFF;
+box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.13) inset, 0px 0px 16.1px 0px rgba(253, 136, 6, 0.51);
+background: #232039;
+color: #FFF;
+font-family: "CustomFont";
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 34px; /* 141.667% */
+}
+@media (max-width:835px){
+    .benefits__btn2 {margin-right: 35px;
+    }
 }
