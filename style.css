@@ -2,13 +2,219 @@
     font-family: 'Greycliff CF';
     src: url('GreycliffCF-Bold.eot');
     src: local('Greycliff CF Bold'), local('GreycliffCF-Bold'),
-    url('GreycliffCF-Bold.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-Bold.woff2') format('woff2'),
-    url('GreycliffCF-Bold.woff') format('woff'),
-    url('GreycliffCF-Bold.ttf') format('truetype');
+        url('GreycliffCF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-Bold.woff2') format('woff2'),
+        url('GreycliffCF-Bold.woff') format('woff'),
+        url('GreycliffCF-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Greycliff CF Medium Oblique';
+    src: url('GreycliffCF-MediumOblique.eot');
+    src: local('Greycliff CF Medium Oblique'), local('GreycliffCF-MediumOblique'),
+        url('GreycliffCF-MediumOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-MediumOblique.woff2') format('woff2'),
+        url('GreycliffCF-MediumOblique.woff') format('woff'),
+        url('GreycliffCF-MediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Light.eot');
+    src: local('Greycliff CF Light'), local('GreycliffCF-Light'),
+        url('GreycliffCF-Light.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-Light.woff2') format('woff2'),
+        url('GreycliffCF-Light.woff') format('woff'),
+        url('GreycliffCF-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Heavy.eot');
+    src: local('Greycliff CF Heavy'), local('GreycliffCF-Heavy'),
+        url('GreycliffCF-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-Heavy.woff2') format('woff2'),
+        url('GreycliffCF-Heavy.woff') format('woff'),
+        url('GreycliffCF-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra Light Oblique';
+    src: url('GreycliffCF-ExtraLightOblique.eot');
+    src: local('Greycliff CF Extra Light Oblique'), local('GreycliffCF-ExtraLightOblique'),
+        url('GreycliffCF-ExtraLightOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-ExtraLightOblique.woff2') format('woff2'),
+        url('GreycliffCF-ExtraLightOblique.woff') format('woff'),
+        url('GreycliffCF-ExtraLightOblique.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra Bold Oblique';
+    src: url('GreycliffCF-ExtraBoldOblique.eot');
+    src: local('Greycliff CF Extra Bold Oblique'), local('GreycliffCF-ExtraBoldOblique'),
+        url('GreycliffCF-ExtraBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-ExtraBoldOblique.woff2') format('woff2'),
+        url('GreycliffCF-ExtraBoldOblique.woff') format('woff'),
+        url('GreycliffCF-ExtraBoldOblique.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra';
+    src: url('GreycliffCF-ExtraLight.eot');
+    src: local('Greycliff CF Extra Light'), local('GreycliffCF-ExtraLight'),
+        url('GreycliffCF-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-ExtraLight.woff2') format('woff2'),
+        url('GreycliffCF-ExtraLight.woff') format('woff'),
+        url('GreycliffCF-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Extra';
+    src: url('GreycliffCF-ExtraBold.eot');
+    src: local('Greycliff CF Extra Bold'), local('GreycliffCF-ExtraBold'),
+        url('GreycliffCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-ExtraBold.woff2') format('woff2'),
+        url('GreycliffCF-ExtraBold.woff') format('woff'),
+        url('GreycliffCF-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Bold Oblique';
+    src: url('GreycliffCF-BoldOblique.eot');
+    src: local('Greycliff CF Bold Oblique'), local('GreycliffCF-BoldOblique'),
+        url('GreycliffCF-BoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-BoldOblique.woff2') format('woff2'),
+        url('GreycliffCF-BoldOblique.woff') format('woff'),
+        url('GreycliffCF-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Light Oblique';
+    src: url('GreycliffCF-LightOblique.eot');
+    src: local('Greycliff CF Light Oblique'), local('GreycliffCF-LightOblique'),
+        url('GreycliffCF-LightOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-LightOblique.woff2') format('woff2'),
+        url('GreycliffCF-LightOblique.woff') format('woff'),
+        url('GreycliffCF-LightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Heavy Oblique';
+    src: url('GreycliffCF-HeavyOblique.eot');
+    src: local('Greycliff CF Heavy Oblique'), local('GreycliffCF-HeavyOblique'),
+        url('GreycliffCF-HeavyOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-HeavyOblique.woff2') format('woff2'),
+        url('GreycliffCF-HeavyOblique.woff') format('woff'),
+        url('GreycliffCF-HeavyOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Demi Bold Oblique';
+    src: url('GreycliffCF-DemiBoldOblique.eot');
+    src: local('Greycliff CF Demi Bold Oblique'), local('GreycliffCF-DemiBoldOblique'),
+        url('GreycliffCF-DemiBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-DemiBoldOblique.woff2') format('woff2'),
+        url('GreycliffCF-DemiBoldOblique.woff') format('woff'),
+        url('GreycliffCF-DemiBoldOblique.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Demi';
+    src: url('GreycliffCF-DemiBold.eot');
+    src: local('Greycliff CF Demi Bold'), local('GreycliffCF-DemiBold'),
+        url('GreycliffCF-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-DemiBold.woff2') format('woff2'),
+        url('GreycliffCF-DemiBold.woff') format('woff'),
+        url('GreycliffCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Thin.eot');
+    src: local('Greycliff CF Thin'), local('GreycliffCF-Thin'),
+        url('GreycliffCF-Thin.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-Thin.woff2') format('woff2'),
+        url('GreycliffCF-Thin.woff') format('woff'),
+        url('GreycliffCF-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Medium.eot');
+    src: local('Greycliff CF Medium'), local('GreycliffCF-Medium'),
+        url('GreycliffCF-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-Medium.woff2') format('woff2'),
+        url('GreycliffCF-Medium.woff') format('woff'),
+        url('GreycliffCF-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Thin Oblique';
+    src: url('GreycliffCF-ThinOblique.eot');
+    src: local('Greycliff CF Thin Oblique'), local('GreycliffCF-ThinOblique'),
+        url('GreycliffCF-ThinOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-ThinOblique.woff2') format('woff2'),
+        url('GreycliffCF-ThinOblique.woff') format('woff'),
+        url('GreycliffCF-ThinOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Greycliff CF';
+    src: url('GreycliffCF-Regular.eot');
+    src: local('Greycliff CF'), local('GreycliffCF-Regular'),
+        url('GreycliffCF-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-Regular.woff2') format('woff2'),
+        url('GreycliffCF-Regular.woff') format('woff'),
+        url('GreycliffCF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Greycliff CF Oblique';
+    src: url('GreycliffCF-RegularOblique.eot');
+    src: local('Greycliff CF Oblique'), local('GreycliffCF-RegularOblique'),
+        url('GreycliffCF-RegularOblique.eot?#iefix') format('embedded-opentype'),
+        url('GreycliffCF-RegularOblique.woff2') format('woff2'),
+        url('GreycliffCF-RegularOblique.woff') format('woff'),
+        url('GreycliffCF-RegularOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
 img {
     pointer-events: none;
   }
@@ -17,25 +223,27 @@ img {
     font-family: 'CustomFont';
     src: url('VelaSans-Regular.otf') format('opentype');
 }
-
 @font-face {
-    font-family: 'Greycliff CF';
-    src: url('GreycliffCF-Regular.eot');
-    src: local('Greycliff CF'), local('GreycliffCF-Regular'),
-    url('GreycliffCF-Regular.eot?#iefix') format('embedded-opentype'),
-    url('GreycliffCF-Regular.woff2') format('woff2'),
-    url('GreycliffCF-Regular.woff') format('woff'),
-    url('GreycliffCF-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'GreyCliff';
+    src: url('Fontspring-DEMO-greycliffcf-regular') format('opentype');
 }
-
 
 *{
     padding: 0;
     margin: 0;
     border: 0;
+    transition: .3s;
+    color: #fff;
+    font-family: 'Greycliff CF';
+
+
 }
+.container{
+    max-width: 1725px;
+    /* width: 92vw; */
+    margin: 0 auto;
+}
+
 *,*:before,*:after{
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -81,6 +289,508 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
     padding: 0px 15px;
     box-sizing: content-box;
 }
+/* NIAZ */
+
+.burger_menu{
+    display: none;
+
+    width: 28px;
+    height: 22.095px;
+    flex-shrink: 0;
+}
+
+.header{
+    /* height: 1070px; */
+    position: relative;
+}
+
+.header_container{ padding: 25px 0; }
+
+.header_underline_vector{
+    margin: 0 auto;
+    max-width: 1920px;
+}
+
+.header_underline_vector img{
+    width: 100%;
+}
+
+.header_bg_image{
+    background: url('./../img/H1.svg') no-repeat;
+    background-size: 100% ;
+    height: 100%;
+}
+
+.header_inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar_list{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: 24px;
+}
+
+.navbar_item{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+
+    position: relative;
+}
+
+.navbar_item_link{
+    
+    font-family: Geologica;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 34px;
+    text-decoration: none;
+}
+
+.dropdown_arrow{
+    width: 16px;
+    height: 16px;
+    transition: .3s;
+}
+
+.dropdown_arrow.active{
+    transform: rotate(180deg);
+    transition: .3s;
+}
+
+.dropdown_content{
+    display: none;
+}
+
+.dropdown_content.active_dropdown{
+    position: absolute;
+    top: 50px;
+    left: -95px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+.dropdown_content2.active_dropdown{
+    left: 90px;
+}
+.dropdown_content3.active_dropdown{
+    left: -25px;
+}
+
+.dropdown_item{
+    display: flex;
+    width: 300px;
+    height: 48px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    background: #252333;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.dropdown_item a{
+    text-decoration: none;
+}
+
+.header_phone{
+    display: flex;
+    align-items: center;
+    
+    gap: 11px;
+    font-size: 24px;
+}
+
+
+.burger_menu_inner {
+    display: none;
+    /* opacity: 0; */
+    z-index: 66;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 710px;
+    background-color: #161423;
+}
+
+.active_menu {
+    display: block;
+    /* opacity: 1; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 710px;
+    background-color: #161423;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.30);
+}
+
+.header_underline_vector {
+    /* margin: 0 0 90px 0; */
+}
+
+.menu_logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.menu_logo img {
+    width: 100px;
+}
+
+.menu_cross {
+    position: absolute;
+    top: 35px;
+    right: 25px;
+}
+
+.burger_menu_navbar{
+    margin: 90px 0 0 0;
+}
+
+.burger_menu_item {
+    display: flex;
+    width: 100%;
+    padding: 12px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.30);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.30);
+    background: #161423;
+}
+
+.burger_menu_item a {
+    text-decoration: none;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 34px; /* 170% */
+}
+
+.menu_content{
+    display: none;
+}
+
+.menu_content.active{
+    display: block;
+}
+
+.menu_content .burger_menu_item a{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    opacity: 0.6;
+    text-decoration: none;
+}
+.menu_content .burger_menu_item{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    background: #252333;
+}
+
+
+
+
+
+
+
+
+
+
+.header_container_2 .header_inner{
+    display: grid;
+    grid-template-columns: 4fr 3fr;
+}
+
+.header_title{
+    text-shadow: 0px 0px 22.4px #3B3564;
+    font-size: 84px;
+    font-style: normal;
+    font-family: "Gre";
+    font-weight: 400;
+    line-height: normal;
+    margin: 0 0 25px 0;
+    /* width: 950px; */
+}
+
+.header_text{
+    /* width: 800px; */
+    color: #CDD3DA;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px; /* 175% */
+}
+
+.header_btn{
+    max-width: 345px;
+    margin: 70px 0;
+    display: flex;
+    padding: 25px 95px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 6px;
+    background: linear-gradient(257deg, #FD8806 25.37%, #DB3F2C 125.31%);
+    box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.13) inset, 0px 0px 16.1px 0px rgba(253, 136, 6, 0.51);
+    transition: .3s;
+    font-size: 24px;
+}
+
+.header_btn:hover{
+    transition: .3s;
+    background: linear-gradient(257deg, #d47100 25.37%, #bb2c19 125.31%);
+    box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.13) inset, 0px 0px 16.1px 0px rgba(253, 136, 6, 0.51);
+}
+
+.header_ladno{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 13px;
+}
+
+.header_ladno_item{
+    
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; /* 141.667% */
+    display: flex;
+    padding: 10px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.04);
+    box-shadow: 0px 0px 21.5px 0px rgba(0, 0, 0, 0.25);
+}
+
+.right_block {
+    /* width: 1000px; */
+    height: 800px;
+    background: url('./../img/man3.png') no-repeat center;
+    background-size: cover;
+    opacity: 0.5;
+
+    position: relative;
+    top: 100px;
+}
+
+.right_block .vectors_desktop{
+    width: 100%;
+    height: 75%;
+
+    position: absolute;
+    /* right: 70px; */
+    top: 150px;
+}
+
+.header_underline_vector_2{
+    margin-top: 50px;
+}
+
+
+.apps_container{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.apps{
+    display: flex;
+    justify-content: right;
+}
+
+.vector_phone,
+.vectors_phone{
+    display: none;
+}
+
+
+
+
+@media screen and (max-width: 1919px) and (min-width:1441px) {
+    .container{
+        max-width: 90vw;
+    }
+}
+
+@media screen and (max-width:1440px) and (min-width: 1001px) {
+    .container{
+        max-width: 90vw;
+    }
+    .header_btn{
+        max-width: 345px;
+        margin: 30px 0;
+    }
+    .header_underline_vector_2{
+        margin-top: -50px;
+    }
+    .navbar_inner{
+        display: grid;
+        grid-template-columns: 150px 1fr 220px;
+        gap: 50px;
+    }
+    .navbar_item_link{
+        font-size: 16px;
+    }
+    .navbar_list{
+        gap: 25px;
+    }
+    .navbar_item_link{
+        min-width: 20px;
+    }
+    .header_phone{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:1100px) and (min-width: 769px){
+    .container{
+        max-width: 90vw;
+    }
+    .header_btn{
+        max-width: 345px;
+        margin: 30px 0;
+    }
+    /* .header_phone{
+        display: none;
+    } */
+    .header_underline_vector_2{
+        margin-top: -0px;
+    }
+    .navbar_inner{
+        display: grid;
+        grid-template-columns: 150px 1fr 1fr;
+        gap: 50px;
+    }
+    .navbar_item_link{
+        font-size: 10px;
+    }
+    .navbar_list{
+        gap: 25px;
+    }
+    .navbar_item_link{
+        min-width: 20px;
+    }
+    .header_phone{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container{
+        max-width: 90vw;
+    }
+    .burger_menu{
+        display: block;
+    }
+    .navbar,
+    .header_phone,
+    .right_block .vectors_desktop{
+        display: none;
+        top: 0;
+    }
+    .header_container_2 .header_inner{
+        display: grid;
+        grid-template-columns: 1fr;
+        position: relative;
+    }
+    .header_title{
+        text-shadow: 0px 0px 22.4px #3B3564;
+        font-size: 50px;
+        font-style: normal;
+        font-family: 'Greycliff CF Demi Bold Oblique';
+
+        font-weight: 400;
+        line-height: normal;
+        margin: 100px 0 20px 0;
+    }
+    .header_text{
+        color: #CDD3DA;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px; /* 162.5% */
+    }
+    .header_btn{
+        display: flex;
+        max-width: 90vw;
+        margin: 75px auto;
+        height: 64px;
+        padding: 25px 95px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-shrink: 0;
+    }
+    .header_ladno{
+        position: absolute;
+        bottom: 90px;
+        z-index: 55;
+    }
+    .header_ladno_item{
+        
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 34px; /* 242.857% */
+        display: flex;
+        padding: 6px 12px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    .vector_phone,
+    .vectors_phone{
+        display: block;
+    }
+    .vector_phone.down{
+        margin-top: -70px;
+    }
+
+    .vector_desktop{
+        display: none;
+    }
+    .vectors_phone{
+        position: absolute;
+        top: -400px;
+        left: -5vw;
+        width: 100vw;
+        min-height: 1000px;
+    }
+}
+
+
+
 
 /* header-block */
 .header-block {
@@ -201,6 +911,12 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /* PRODUCT */
 .product {
     padding: 70px 0px 70px 0px;
+    margin-top: 126px;
+}
+@media (max-width:1013px){
+    .product {
+        margin-top: 90px;
+    }
 }
 @media (max-width:992px){
     .product {
@@ -210,6 +926,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 @media (max-width:767px){
     .product {
         padding: 40px 0px 40px 0px;
+        margin-top: 60px;
+
     }
 }
 .product__container {
@@ -563,10 +1281,10 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
         content: url('./img/benefits/word-circle.svg'); /* Путь к изображению иконки */
         position: absolute;
        right: 250px;
-        top: 110px;
+        top: 80px;
     }
 }
-@media (max-width:387px){
+@media (max-width:400px){
     .benefits__circled_word::before{
         display: none;
     }
@@ -835,7 +1553,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
         padding-top: 20px;
         opacity: 0.9;
         background: url('./img/benefits/manbro.png') no-repeat;
-        background-position:center 280vw;
+        background-position:center 260vw;
         background-size: 700px;
     }
     .benefits__container {
